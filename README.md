@@ -4,8 +4,7 @@
 
 ## 功能
 推播功能
-table{}
-<table>
+<table width="100%" style="table-layout:fixed">
   <thead>
     <th>天氣預報</th>
     <th>Google Trend</th>
@@ -27,7 +26,7 @@ table{}
 
 除了主動推播外，也可透過選單取得所有資訊
 
-<table>
+<table width="100%" style="table-layout:fixed">
   <tbody>
     <td>
       <ul>
