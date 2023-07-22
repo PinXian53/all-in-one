@@ -4,7 +4,7 @@
 ## 功能
 ### 天氣預報
 串接中央氣象局 api，每天早上 7 點發送天氣預報，起床便可知道當日天氣
-![image](https://github.com/PinXian53/all-in-one/blob/main/image/weather.jpg)
+![image](https://github.com/PinXian53/all-in-one/blob/main/image/weather.jpg | width=300)
 
 ### Google Trend
 爬蟲 Google Trend，每天晚上 7 點發送當天搜尋趨勢，社會時事不漏接
