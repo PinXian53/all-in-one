@@ -4,7 +4,8 @@
 
 ## 功能
 推播功能
-<table width="100%" style="table-layout:fixed">
+table{}
+<table>
   <thead>
     <th>天氣預報</th>
     <th>Google Trend</th>
@@ -12,9 +13,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/PinXian53/all-in-one/blob/main/image/weather.jpg" alt="image"  width="250"></td>
-      <td><img src="https://github.com/PinXian53/all-in-one/blob/main/image/google-trend.jpg" alt="image"  width="250"></td>
-      <td><img src="https://github.com/PinXian53/all-in-one/blob/main/image/lang-live.jpg" alt="image"  width="250"></td>
+      <td width="33"><img src="https://github.com/PinXian53/all-in-one/blob/main/image/weather.jpg" alt="image"  width="250"></td>
+      <td width="33"><img src="https://github.com/PinXian53/all-in-one/blob/main/image/google-trend.jpg" alt="image"  width="250"></td>
+      <td width="33"><img src="https://github.com/PinXian53/all-in-one/blob/main/image/lang-live.jpg" alt="image"  width="250"></td>
     </tr>
     <tr>
       <td>串接中央氣象局 api，每天早上 7 點發送天氣預報，起床便可知道當日天氣</td>
@@ -26,7 +27,7 @@
 
 除了主動推播外，也可透過選單取得所有資訊
 
-<table width="100%" style="table-layout:fixed">
+<table>
   <tbody>
     <td>
       <ul>
