@@ -3,8 +3,8 @@
 一站式 line bot 機器人
 
 ## 功能
-
-<table>
+推播功能
+<table style="table-layout:fixed">
   <thead>
     <th>天氣預報</th>
     <th>Google Trend</th>
@@ -27,14 +27,17 @@
 除了主動推播外，也可透過選單取得所有資訊
 
 <table>
-<tbody>
-<td><img src="https://github.com/PinXian53/all-in-one/blob/main/image/menu.jpg" alt="image"  width="300"></td>
-<td>- 天氣預報
-- Google Trend
-- Lang Live (Akb)
-- Ig 照片
-- Ig 照片 (Akb)
-- Help</td>
-</tbody>
+  <tbody>
+    <td><img src="https://github.com/PinXian53/all-in-one/blob/main/image/menu.jpg" alt="image"  width="300"></td>
+    <td>
+      <ul>
+        <li>Google Trend</li>
+        <li>Lang Live (Akb)</li>
+        <li>Ig 照片</li>
+        <li>Ig 照片 (Akb)</li>
+        <li>Help</li>
+      </ul>
+    </td>
+  </tbody>
 </table>
 
