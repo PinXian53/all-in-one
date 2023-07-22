@@ -37,7 +37,7 @@
         <li>Help</li>
       </ul>
     </td>
-    <td width="60%"><img src="https://github.com/PinXian53/all-in-one/blob/main/image/menu.jpg" alt="image"  width="300"></td>
+    <td width="60%"><img src="https://github.com/PinXian53/all-in-one/blob/main/image/menu.jpg" alt="image"></td>
   </tbody>
 </table>
 
