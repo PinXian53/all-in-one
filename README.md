@@ -1,9 +1,10 @@
 # all-in-one
-
-一站式 line bot 機器人
+### 打造一站式 line bot 機器人
 
 ## 功能
-推播功能
+
+主動推播功能
+
 <table>
   <thead>
     <th>天氣預報</th>
@@ -24,7 +25,7 @@
   </tbody>
 </table>
 
-除了主動推播外，也可透過選單取得所有資訊
+除了主動推播外，也可透過 line 選單，及時取得所有資訊
 
 <table>
   <tbody>
