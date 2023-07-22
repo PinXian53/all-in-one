@@ -1,0 +1,6 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation project(':util:db')
+    implementation project(':util:exception')
+}

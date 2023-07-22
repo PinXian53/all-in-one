@@ -1,0 +1,15 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation project(':util:ok-http')
+    implementation project(':util:exception')
+    implementation project(':util:db')
+    implementation project(':util:line')
+    implementation project(':util:imgur')
+    implementation project(':util:common')
+    implementation project(':util:ig')
+    implementation project(':util:enums')
+
+    implementation 'com.linecorp.bot:line-bot-spring-boot:4.8.0'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+}

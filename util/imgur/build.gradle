@@ -1,0 +1,7 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation project(':util:exception')
+    implementation project(':util:db')
+    implementation project(':util:enums')
+}

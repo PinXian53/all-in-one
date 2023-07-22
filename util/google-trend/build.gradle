@@ -1,0 +1,6 @@
+dependencies {
+    implementation project(':util:common')
+    implementation project(':util:exception')
+    implementation project(':util:ok-http')
+    implementation project(':util:short-url')
+}

@@ -1,0 +1,20 @@
+apply plugin: 'org.springframework.boot'
+
+dependencies {
+    implementation project(':util:common')
+    implementation project(':util:exception')
+    implementation project(':util:google-trend')
+    implementation project(':util:short-url')
+    implementation project(':util:weather')
+    implementation project(':util:db')
+    implementation project(':util:line')
+    implementation project(':util:ig')
+    implementation project(':util:enums')
+    implementation project(':util:lang-live')
+    implementation project(':util:imgur')
+
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'com.linecorp.bot:line-bot-spring-boot:4.8.0'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+
+}

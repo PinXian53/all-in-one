@@ -1,0 +1,10 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation project(':util:exception')
+
+    implementation 'com.linecorp.bot:line-bot-spring-boot:4.8.0'
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-jackson:2.9.0'
+    implementation 'com.google.guava:guava:32.1.1-jre'
+}
